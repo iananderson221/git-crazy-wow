@@ -1,2 +1,4 @@
-git is cool and so am I and so are you and so is she and so are they  
+git is cool and so am I and so are you and so is she and so are they
+
+but merge conflicts are lame   
 
